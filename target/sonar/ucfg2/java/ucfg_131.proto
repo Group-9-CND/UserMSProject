@@ -1,0 +1,77 @@
+
+âcom.infy.oms.controller.WishlistController#getSpecificProductFromWishlist(Ljava/lang/Long;Ljava/lang/Long;)Lcom/infy/oms/dto/WishlistDTO;x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java; ;(2"1*ç
+1x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java? ?(Ù
+Ò
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java? ?(1
+%0+org.springframework.web.client.RestTemplate"__id*<*:,
+*com.infy.oms.controller.WishlistController"
+
+template≈
+¬
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java?, ?(K
+%1java.lang.String"__concat*
+http://PRODUCTMS*
+
+/products/’
+“
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java?, ?(R
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+
+prodIdjava.lang.Long∑¥
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java? ?(a
+%3java.lang.String"Çorg.springframework.web.client.RestTemplate#getForObject(Ljava/lang/String;Ljava/lang/Class;[Ljava/lang/Object;)Ljava/lang/Object;*3
+1
+%0+org.springframework.web.client.RestTemplate*
+
+%2java.lang.String*
+""2DgetForObject(Ljava/lang/String;Ljava/lang/Class;[Ljava/lang/Object;)æ
+ª
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java? ?(b
+productNamejava.lang.String"__id*
+
+%3java.lang.StringÙ
+Ò
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java@ @(#*
+%4$com.infy.oms.service.WishlistService"__id*C*A,
+*com.infy.oms.controller.WishlistController"
+wishlistService–Õ
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java@ @(S"
+%5com.infy.oms.dto.WishlistDTO"Écom.infy.oms.service.WishlistService#getSpecificProductFromWishlist(Ljava/lang/Long;Ljava/lang/Long;)Lcom/infy/oms/dto/WishlistDTO;*,
+*
+%4$com.infy.oms.service.WishlistService*
+
+buyerIdjava.lang.Long*
+
+prodIdjava.lang.Long2@getSpecificProductFromWishlist(Ljava/lang/Long;Ljava/lang/Long;)œ
+Ã
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java@ @(T$
+wDtocom.infy.oms.dto.WishlistDTO"__id*$
+"
+%5com.infy.oms.dto.WishlistDTO∫∑
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.javaA A("
+
+%6void"@com.infy.oms.dto.WishlistDTO#setProductName(Ljava/lang/String;)V*&
+$
+wDtocom.infy.oms.dto.WishlistDTO*!
+
+productNamejava.lang.String2"setProductName(Ljava/lang/String;)"¢
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.javaB B(&
+$
+wDtocom.infy.oms.dto.WishlistDTO:
+buyerIdjava.lang.Long:
+prodIdjava.lang.LongB.,
+*com.infy.oms.controller.WishlistController

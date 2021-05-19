@@ -1,0 +1,140 @@
+
+[com.infy.oms.service.BuyerService#becomePrivilegedBuyer(Ljava/lang/Long;)Ljava/lang/String;o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.javak k($"9*×
+2o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.javaw w(–“
+o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.javaw w(
+
+%8void"?com.infy.oms.dto.BuyerDTO#setIsPrivileged(Ljava/lang/Integer;)V*'
+%
+buyerDTOcom.infy.oms.dto.BuyerDTO*22$setIsPrivileged(Ljava/lang/Integer;)“
+o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.javax x(,
+%9com.infy.oms.entity.Buyer"Ccom.infy.oms.dto.BuyerDTO#createEntity()Lcom/infy/oms/entity/Buyer;*'
+%
+buyerDTOcom.infy.oms.dto.BuyerDTO2createEntity()Ä
+Á
+o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.javax x(-%
+newBuyercom.infy.oms.entity.Buyer"__id*!
+
+%9com.infy.oms.entity.Buyeræ
+ã
+o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.javay y(.
+%10'com.infy.oms.repository.BuyerRepository"__id*:*8#
+!com.infy.oms.service.BuyerService"
+buyerRepositoryêç
+o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.javay y(" 
+%11com.infy.oms.entity.Buyer"]org.springframework.data.repository.CrudRepository#save(Ljava/lang/Object;)Ljava/lang/Object;*0
+.
+%10'com.infy.oms.repository.BuyerRepository*'
+%
+newBuyercom.infy.oms.entity.Buyer2save(Ljava/lang/Object;)"”
+o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.javaz z(+!
+You're now a privileged Buyer*’
+3o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.javau u(1"›
+o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.javau u(2(&
+$You're already a privileged customer*ˆ
+4o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.javat0 t(8‰†
+o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.javat0 t(J
+%7java.lang.Integer">com.infy.oms.dto.BuyerDTO#getIsPrivileged()Ljava/lang/Integer;*'
+%
+buyerDTOcom.infy.oms.dto.BuyerDTO2getIsPrivileged()*
+2
+3*ˆ
+5o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.javat t(‰†
+o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.javat t(&
+%6java.lang.Integer">com.infy.oms.dto.BuyerDTO#getIsPrivileged()Ljava/lang/Integer;*'
+%
+buyerDTOcom.infy.oms.dto.BuyerDTO2getIsPrivileged()*
+2
+4*­
+6o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.javas s(L"¶
+o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.javas s(MCA
+?You do not have enough reward points to become privileged buyer*ç
+8o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.javao o(êç
+o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.javao o(
+%3com.infy.oms.entity.Buyer"*java.util.Optional#get()Ljava/lang/Object;* 
+
+optBuyerjava.util.Optional2get()Á
+¾
+o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.javao o( "
+buyercom.infy.oms.entity.Buyer"__id*!
+
+%3com.infy.oms.entity.Buyerµ
+²
+o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.javap p(.
+%4com.infy.oms.dto.BuyerDTO"Ycom.infy.oms.dto.BuyerDTO#valueOf(Lcom/infy/oms/entity/Buyer;)Lcom/infy/oms/dto/BuyerDTO;*"
+com.infy.oms.dto.BuyerDTO*$
+"
+buyercom.infy.oms.entity.BuyerÄ
+Á
+o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.javap p(/%
+buyerDTOcom.infy.oms.dto.BuyerDTO"__id*!
+
+%4com.infy.oms.dto.BuyerDTOƒ€
+o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.javaq q(1
+%5java.lang.Long";com.infy.oms.dto.BuyerDTO#getRewardPoints()Ljava/lang/Long;*'
+%
+buyerDTOcom.infy.oms.dto.BuyerDTO2getRewardPoints()²
+¯
+o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.javaq q(2
+rewardPointsjava.lang.Long"__id*
+
+%5java.lang.Long*
+5
+6*Õ
+9o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.javam m(,å
+â
+o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.javam m(,-
+%0'com.infy.oms.repository.BuyerRepository"__id*:*8#
+!com.infy.oms.service.BuyerService"
+buyerRepositoryßÜ
+o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.javam m(>
+%1java.util.Optional"corg.springframework.data.repository.CrudRepository#findById(Ljava/lang/Object;)Ljava/util/Optional;*/
+-
+%0'com.infy.oms.repository.BuyerRepository*
+
+buyerIdjava.lang.Long2findById(Ljava/lang/Object;)¶
+³
+o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.javam m(?
+optBuyerjava.util.Optional"__id*
+
+%1java.util.OptionalÓÐ
+o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.javan n(
+%2boolean"java.util.Optional#isPresent()Z* 
+
+optBuyerjava.util.Optional2isPresent()*
+8
+1*‚
+1o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.java~	 ~("‹
+o
+eC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/BuyerService.java~ ~( 
+Buyer does not exist:
+buyerIdjava.lang.LongB%#
+!com.infy.oms.service.BuyerService

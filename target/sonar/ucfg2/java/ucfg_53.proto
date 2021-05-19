@@ -1,0 +1,19 @@
+
+Scom.infy.oms.UserConfig#restTemplate()Lorg/springframework/web/client/RestTemplate;e
+[C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/UserConfig.java ("1*µ
+1e
+[C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/UserConfig.java	 (ÊÇ
+e
+[C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/UserConfig.java (1
+%0+org.springframework.web.client.RestTemplate"+org.springframework.web.client.RestTemplateÜ
+Ù
+e
+[C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/UserConfig.java	 (
+%1"5org.springframework.web.client.RestTemplate#<init>()V*3
+1
+%0+org.springframework.web.client.RestTemplate"œ
+e
+[C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/UserConfig.java (3
+1
+%0+org.springframework.web.client.RestTemplateB
+com.infy.oms.UserConfig

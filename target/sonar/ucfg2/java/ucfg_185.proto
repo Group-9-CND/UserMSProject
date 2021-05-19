@@ -1,0 +1,103 @@
+
+\com.infy.oms.dto.SellerDTO#valueOf(Lcom/infy/oms/entity/Seller;)Lcom/infy/oms/dto/SellerDTO;h
+^C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/dto/SellerDTO.javaa a( "1*»
+1h
+^C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/dto/SellerDTO.javab b('«¨
+h
+^C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/dto/SellerDTO.javab b(% 
+%0com.infy.oms.dto.SellerDTO"com.infy.oms.dto.SellerDTO½
+º
+h
+^C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/dto/SellerDTO.javab b('
+%1"$com.infy.oms.dto.SellerDTO#<init>()V*"
+ 
+%0com.infy.oms.dto.SellerDTOÀ
+½
+h
+^C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/dto/SellerDTO.javab b(('
+	sellerDTOcom.infy.oms.dto.SellerDTO"__id*"
+ 
+%0com.infy.oms.dto.SellerDTOôñ
+h
+^C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/dto/SellerDTO.javac c(,
+%2java.lang.Long"8com.infy.oms.entity.Seller#getSellerId()Ljava/lang/Long;*&
+$
+sellercom.infy.oms.entity.Seller2getSellerId()–“
+h
+^C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/dto/SellerDTO.javac c(-
+
+%3void"9com.infy.oms.dto.SellerDTO#setSellerId(Ljava/lang/Long;)V*)
+'
+	sellerDTOcom.infy.oms.dto.SellerDTO*
+
+%2java.lang.Long2setSellerId(Ljava/lang/Long;)òï
+h
+^C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/dto/SellerDTO.javad d(&
+%4java.lang.String"7com.infy.oms.entity.Seller#getEmail()Ljava/lang/String;*&
+$
+sellercom.infy.oms.entity.Seller2
+getEmail()–“
+h
+^C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/dto/SellerDTO.javad d('
+
+%5void"8com.infy.oms.dto.SellerDTO#setEmail(Ljava/lang/String;)V*)
+'
+	sellerDTOcom.infy.oms.dto.SellerDTO*
+
+%4java.lang.String2setEmail(Ljava/lang/String;)ú÷
+h
+^C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/dto/SellerDTO.javae e(,
+%6java.lang.Integer";com.infy.oms.entity.Seller#getIsActive()Ljava/lang/Integer;*&
+$
+sellercom.infy.oms.entity.Seller2getIsActive()Ÿœ
+h
+^C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/dto/SellerDTO.javae e(-
+
+%7void"<com.infy.oms.dto.SellerDTO#setIsActive(Ljava/lang/Integer;)V*)
+'
+	sellerDTOcom.infy.oms.dto.SellerDTO*
+
+%6java.lang.Integer2 setIsActive(Ljava/lang/Integer;)ðí
+h
+^C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/dto/SellerDTO.javaf f($
+%8java.lang.String"6com.infy.oms.entity.Seller#getName()Ljava/lang/String;*&
+$
+sellercom.infy.oms.entity.Seller2	getName()”‘
+h
+^C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/dto/SellerDTO.javaf f(%
+
+%9void"7com.infy.oms.dto.SellerDTO#setName(Ljava/lang/String;)V*)
+'
+	sellerDTOcom.infy.oms.dto.SellerDTO*
+
+%8java.lang.String2setName(Ljava/lang/String;)ùö
+h
+^C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/dto/SellerDTO.javag g(,
+%10java.lang.String":com.infy.oms.entity.Seller#getPassword()Ljava/lang/String;*&
+$
+sellercom.infy.oms.entity.Seller2getPassword()ž›
+h
+^C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/dto/SellerDTO.javag g(-
+%11void";com.infy.oms.dto.SellerDTO#setPassword(Ljava/lang/String;)V*)
+'
+	sellerDTOcom.infy.oms.dto.SellerDTO*
+
+%10java.lang.String2setPassword(Ljava/lang/String;)÷ô
+h
+^C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/dto/SellerDTO.javah h(.
+%12java.lang.String"9com.infy.oms.entity.Seller#getPhoneNo()Ljava/lang/String;*&
+$
+sellercom.infy.oms.entity.Seller2getPhoneNo()¤¡
+h
+^C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/dto/SellerDTO.javah h(/
+%13void">com.infy.oms.dto.SellerDTO#setPhoneNumber(Ljava/lang/String;)V*)
+'
+	sellerDTOcom.infy.oms.dto.SellerDTO*
+
+%12java.lang.String2"setPhoneNumber(Ljava/lang/String;)"•
+h
+^C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/dto/SellerDTO.javai i()
+'
+	sellerDTOcom.infy.oms.dto.SellerDTO:$
+sellercom.infy.oms.entity.SellerB"
+com.infy.oms.dto.SellerDTO

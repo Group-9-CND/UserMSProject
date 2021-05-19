@@ -1,0 +1,21 @@
+
+Ocom.infy.oms.controller.WishlistController#getWishlistDetails()Ljava/util/List;x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java' '(,"1*®
+1x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java)	 )(ô
+ñ
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java)	 )(*
+%0$com.infy.oms.service.WishlistService"__id*C*A,
+*com.infy.oms.controller.WishlistController"
+wishlistService¢Ÿ
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java)	 )(-
+%1java.util.List"Icom.infy.oms.service.WishlistService#getWishlistDetails()Ljava/util/List;*,
+*
+%0$com.infy.oms.service.WishlistService2getWishlistDetails()"’
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java) )(.
+
+%1java.util.ListB.,
+*com.infy.oms.controller.WishlistController

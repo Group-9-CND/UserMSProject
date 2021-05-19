@@ -1,0 +1,21 @@
+
+Fcom.infy.oms.controller.BuyerController#getAllBuyers()Ljava/util/List;u
+kC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/BuyerController.java1 1(#"1*á
+1u
+kC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/BuyerController.java3	 3(Ë
+Â
+u
+kC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/BuyerController.java3	 3('
+%0!com.infy.oms.service.BuyerService"__id*=*;)
+'com.infy.oms.controller.BuyerController"
+buyerServiceçä
+u
+kC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/BuyerController.java3	 3($
+%1java.util.List"@com.infy.oms.service.BuyerService#buyerListAll()Ljava/util/List;*)
+'
+%0!com.infy.oms.service.BuyerService2buyerListAll()"è
+u
+kC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/BuyerController.java3 3(%
+
+%1java.util.ListB+)
+'com.infy.oms.controller.BuyerController

@@ -1,0 +1,74 @@
+
+com.infy.oms.controller.WishlistController#addToWishlist(Lcom/infy/oms/dto/WishlistDTO;)Lorg/springframework/http/ResponseEntity;x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java- -(,"startingBlock*Ÿ
+startingBlockx
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java-, -(Rh
+f
+
+__unknown_file (
+%5"__id*>*<
++
+wishlistDTOcom.infy.oms.dto.WishlistDTO"
+productNameÐ
+Í
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java-- -(9
+%6"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*
+
+%5Ñ
+Î
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java-F -(Q<
++
+wishlistDTOcom.infy.oms.dto.WishlistDTO"
+productName"__annotation*
+
+%6*
+1*ç
+1x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java/ /("ô
+ñ
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java/ /("*
+%0$com.infy.oms.service.WishlistService"__id*C*A,
+*com.infy.oms.controller.WishlistController"
+wishlistService‡„
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java/ /(=
+%1java.lang.String"dcom.infy.oms.service.WishlistService#addToWishlist(Lcom/infy/oms/dto/WishlistDTO;)Ljava/lang/String;*,
+*
+%0$com.infy.oms.service.WishlistService*-
++
+wishlistDTOcom.infy.oms.dto.WishlistDTO2-addToWishlist(Lcom/infy/oms/dto/WishlistDTO;)º
+·
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java/ /(>
+messagejava.lang.String"__id*
+
+%1java.lang.String¶
+³
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java0' 0(4)
+%2#org.springframework.http.HttpStatus"__id*
+""ÕÒ
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java0 0(-
+%3'org.springframework.http.ResponseEntity"'org.springframework.http.ResponseEntityê
+ç
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java0	 0(5
+%4"horg.springframework.http.ResponseEntity#<init>(Ljava/lang/Object;Lorg/springframework/http/HttpStatus;)V*/
+-
+%3'org.springframework.http.ResponseEntity*
+
+messagejava.lang.String*+
+)
+%2#org.springframework.http.HttpStatus"«
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java0 0(6/
+-
+%3'org.springframework.http.ResponseEntity:+
+wishlistDTOcom.infy.oms.dto.WishlistDTOB.,
+*com.infy.oms.controller.WishlistController

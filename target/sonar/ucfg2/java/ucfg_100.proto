@@ -1,0 +1,52 @@
+
+bcom.infy.oms.dto.WishlistDTO#valueOf(Lcom/infy/oms/entity/Wishlist;)Lcom/infy/oms/dto/WishlistDTO;j
+`C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/dto/WishlistDTO.java4 4(""1*†
+1j
+`C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/dto/WishlistDTO.java5 5(-±®
+j
+`C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/dto/WishlistDTO.java5  5(+"
+%0com.infy.oms.dto.WishlistDTO"com.infy.oms.dto.WishlistDTOÃ
+À
+j
+`C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/dto/WishlistDTO.java5 5(-
+%1"&com.infy.oms.dto.WishlistDTO#<init>()V*$
+"
+%0com.infy.oms.dto.WishlistDTOÈ
+Å
+j
+`C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/dto/WishlistDTO.java5 5(.+
+wishlistDTOcom.infy.oms.dto.WishlistDTO"__id*$
+"
+%0com.infy.oms.dto.WishlistDTOú÷
+j
+`C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/dto/WishlistDTO.java6 6(.
+%2java.lang.Long"9com.infy.oms.entity.Wishlist#getBuyerId()Ljava/lang/Long;**
+(
+wishlistcom.infy.oms.entity.Wishlist2getBuyerId()œ™
+j
+`C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/dto/WishlistDTO.java6 6(/
+
+%3void":com.infy.oms.dto.WishlistDTO#setBuyerId(Ljava/lang/Long;)V*-
++
+wishlistDTOcom.infy.oms.dto.WishlistDTO*
+
+%2java.lang.Long2setBuyerId(Ljava/lang/Long;)øõ
+j
+`C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/dto/WishlistDTO.java7 7(,
+%4java.lang.Long"8com.infy.oms.entity.Wishlist#getProdId()Ljava/lang/Long;**
+(
+wishlistcom.infy.oms.entity.Wishlist2getProdId()š—
+j
+`C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/dto/WishlistDTO.java7 7(-
+
+%5void"9com.infy.oms.dto.WishlistDTO#setProdId(Ljava/lang/Long;)V*-
++
+wishlistDTOcom.infy.oms.dto.WishlistDTO*
+
+%4java.lang.Long2setProdId(Ljava/lang/Long;)"›
+j
+`C:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/dto/WishlistDTO.java8 8(-
++
+wishlistDTOcom.infy.oms.dto.WishlistDTO:(
+wishlistcom.infy.oms.entity.WishlistB "
+com.infy.oms.dto.WishlistDTO

@@ -1,0 +1,62 @@
+
+kcom.infy.oms.service.WishlistService#removeFromWishlist(Ljava/lang/Long;Ljava/lang/Long;)Ljava/lang/String;r
+hC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/WishlistService.java4 4(!"3*½
+2r
+hC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/WishlistService.java8 8(ñ
+î
+r
+hC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/WishlistService.java8 8(0
+%3*com.infy.oms.repository.WishlistRepository"__id*@*>&
+$com.infy.oms.service.WishlistService"
+wishlistRepositoryµ²
+r
+hC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/WishlistService.java8 8(?
+%4java.util.Optional"ycom.infy.oms.repository.WishlistRepository#deleteByBuyerIdAndProdId(Ljava/lang/Long;Ljava/lang/Long;)Ljava/util/Optional;*2
+0
+%3*com.infy.oms.repository.WishlistRepository*
+
+buyerIdjava.lang.Long*
+
+prodIdjava.lang.Long2:deleteByBuyerIdAndProdId(Ljava/lang/Long;Ljava/lang/Long;)"—
+r
+hC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/WishlistService.java: :(*!
+Product removed from wishlist*Ì	
+3r
+hC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/WishlistService.java6( 6(:ñ
+î
+r
+hC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/WishlistService.java6( 6(:0
+%0*com.infy.oms.repository.WishlistRepository"__id*@*>&
+$com.infy.oms.service.WishlistService"
+wishlistRepository±®
+r
+hC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/WishlistService.java6( 6(b
+%1java.util.Optional"wcom.infy.oms.repository.WishlistRepository#findByBuyerIdAndProdId(Ljava/lang/Long;Ljava/lang/Long;)Ljava/util/Optional;*2
+0
+%0*com.infy.oms.repository.WishlistRepository*
+
+buyerIdjava.lang.Long*
+
+prodIdjava.lang.Long28findByBuyerIdAndProdId(Ljava/lang/Long;Ljava/lang/Long;)Á
+¾
+r
+hC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/WishlistService.java6 6(c&
+optionalWishlistjava.util.Optional"__id*
+
+%1java.util.OptionalÞÛ
+r
+hC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/WishlistService.java7 7("
+%2boolean"java.util.Optional#isPresent()Z*(
+&
+optionalWishlistjava.util.Optional2isPresent()*
+2
+1*–
+1r
+hC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/WishlistService.java=
+ =(."œ
+r
+hC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/service/WishlistService.java= =(/&$
+"Product does not exist in wishlist:
+buyerIdjava.lang.Long:
+prodIdjava.lang.LongB(&
+$com.infy.oms.service.WishlistService

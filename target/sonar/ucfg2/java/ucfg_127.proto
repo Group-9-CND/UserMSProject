@@ -1,0 +1,24 @@
+
+Ycom.infy.oms.controller.WishlistController#viewWishlist(Ljava/lang/Long;)Ljava/util/List;x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java! !(&"1*ß
+1x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java#	 #(ô
+ñ
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java#	 #(*
+%0$com.infy.oms.service.WishlistService"__id*C*A,
+*com.infy.oms.controller.WishlistController"
+wishlistServiceÓÐ
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java#	 #(.
+%1java.util.List"Scom.infy.oms.service.WishlistService#viewWishlist(Ljava/lang/Long;)Ljava/util/List;*,
+*
+%0$com.infy.oms.service.WishlistService*
+
+buyerIdjava.lang.Long2viewWishlist(Ljava/lang/Long;)"’
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java# #(/
+
+%1java.util.List:
+buyerIdjava.lang.LongB.,
+*com.infy.oms.controller.WishlistController

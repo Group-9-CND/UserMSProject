@@ -1,0 +1,51 @@
+
+ˆcom.infy.oms.controller.WishlistController#removeFromWishlist(Ljava/lang/Long;Ljava/lang/Long;)Lorg/springframework/http/ResponseEntity;x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java4 4(1"1*ÿ
+1x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java6 6("ô
+ñ
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java6 6("*
+%0$com.infy.oms.service.WishlistService"__id*C*A,
+*com.infy.oms.controller.WishlistController"
+wishlistServiceŸœ
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java6 6(F
+%1java.lang.String"kcom.infy.oms.service.WishlistService#removeFromWishlist(Ljava/lang/Long;Ljava/lang/Long;)Ljava/lang/String;*,
+*
+%0$com.infy.oms.service.WishlistService*
+
+buyerIdjava.lang.Long*
+
+prodIdjava.lang.Long24removeFromWishlist(Ljava/lang/Long;Ljava/lang/Long;)º
+·
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java6 6(G
+messagejava.lang.String"__id*
+
+%1java.lang.String¶
+³
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java7' 7(4)
+%2#org.springframework.http.HttpStatus"__id*
+""ÕÒ
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java7 7(-
+%3'org.springframework.http.ResponseEntity"'org.springframework.http.ResponseEntityê
+ç
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java7	 7(5
+%4"horg.springframework.http.ResponseEntity#<init>(Ljava/lang/Object;Lorg/springframework/http/HttpStatus;)V*/
+-
+%3'org.springframework.http.ResponseEntity*
+
+messagejava.lang.String*+
+)
+%2#org.springframework.http.HttpStatus"«
+x
+nC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/WishlistController.java7 7(6/
+-
+%3'org.springframework.http.ResponseEntity:
+buyerIdjava.lang.Long:
+prodIdjava.lang.LongB.,
+*com.infy.oms.controller.WishlistController

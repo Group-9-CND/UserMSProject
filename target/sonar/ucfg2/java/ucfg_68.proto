@@ -1,0 +1,24 @@
+
+ecom.infy.oms.controller.BuyerController#getSpecificBuyer(Ljava/lang/Long;)Lcom/infy/oms/dto/BuyerDTO;u
+kC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/BuyerController.java? ?(!"1*í
+1u
+kC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/BuyerController.java@	 @(è
+å
+u
+kC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/BuyerController.java@	 @('
+%0!com.infy.oms.service.BuyerService"__id*=*;)
+'com.infy.oms.controller.BuyerController"
+buyerServiceèå
+u
+kC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/BuyerController.java@	 @(/
+%1com.infy.oms.dto.BuyerDTO"_com.infy.oms.service.BuyerService#getSpecificBuyer(Ljava/lang/Long;)Lcom/infy/oms/dto/BuyerDTO;*)
+'
+%0!com.infy.oms.service.BuyerService*
+
+buyerIdjava.lang.Long2"getSpecificBuyer(Ljava/lang/Long;)"š
+u
+kC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/BuyerController.java@ @(0!
+
+%1com.infy.oms.dto.BuyerDTO:
+buyerIdjava.lang.LongB+)
+'com.infy.oms.controller.BuyerController

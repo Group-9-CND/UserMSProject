@@ -1,0 +1,48 @@
+
+xcom.infy.oms.controller.BuyerController#becomePrivilegedBuyer(Ljava/lang/Long;)Lorg/springframework/http/ResponseEntity;u
+kC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/BuyerController.javaD D(4"1*¢
+1u
+kC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/BuyerController.javaE E(è
+å
+u
+kC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/BuyerController.javaE E('
+%0!com.infy.oms.service.BuyerService"__id*=*;)
+'com.infy.oms.controller.BuyerController"
+buyerServiceàÝ
+u
+kC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/BuyerController.javaE E(>
+%1java.lang.String"[com.infy.oms.service.BuyerService#becomePrivilegedBuyer(Ljava/lang/Long;)Ljava/lang/String;*)
+'
+%0!com.infy.oms.service.BuyerService*
+
+buyerIdjava.lang.Long2'becomePrivilegedBuyer(Ljava/lang/Long;)·
+´
+u
+kC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/BuyerController.javaE E(?
+messagejava.lang.String"__id*
+
+%1java.lang.String³
+°
+u
+kC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/BuyerController.javaF- F(:)
+%2#org.springframework.http.HttpStatus"__id*
+""ÒÏ
+u
+kC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/BuyerController.javaF F(#-
+%3'org.springframework.http.ResponseEntity"'org.springframework.http.ResponseEntityç
+ä
+u
+kC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/BuyerController.javaF	 F(;
+%4"horg.springframework.http.ResponseEntity#<init>(Ljava/lang/Object;Lorg/springframework/http/HttpStatus;)V*/
+-
+%3'org.springframework.http.ResponseEntity*
+
+messagejava.lang.String*+
+)
+%2#org.springframework.http.HttpStatus"¨
+u
+kC:/Users/ishita/git/OrderManagementSystem/UserMS/src/main/java/com/infy/oms/controller/BuyerController.javaF F(</
+-
+%3'org.springframework.http.ResponseEntity:
+buyerIdjava.lang.LongB+)
+'com.infy.oms.controller.BuyerController
