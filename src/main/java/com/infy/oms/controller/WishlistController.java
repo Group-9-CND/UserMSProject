@@ -4,6 +4,7 @@ import java.util.List;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
@@ -23,11 +24,14 @@ import com.infy.oms.service.WishlistService;
 @RestController
 public class WishlistController {
 
-	@Autowired
-	RestTemplate template;
+//	@Autowired
+//	RestTemplate template;
 
 	@Autowired
 	WishlistService wishlistService;
+	
+	@Value("${product.uri}")
+	String productUri;
 	
 	@GetMapping(value = "/wishlist/{buyerId}", produces = MediaType.APPLICATION_JSON_VALUE)
 	public List<WishlistDTO> viewWishlist(@PathVariable Long buyerId){
@@ -57,10 +61,10 @@ public class WishlistController {
 	
 	@GetMapping(value = "/wishlist/{buyerId}/{prodId}",produces = MediaType.APPLICATION_JSON_VALUE)
 	public WishlistDTO getSpecificProductFromWishlist(@PathVariable Long buyerId, @PathVariable Long prodId) {
-//		RestTemplate template = new RestTemplate();
+		RestTemplate template = new RestTemplate();
 //		String productName= template.getForObject("http://localhost:8100/products/"+prodId, String.class);
 //		String productName= template.getForObject("http://PRODUCTMS"+"/products/"+prodId, String.class);
-		String productName= template.getForObject("http://PRODUCTMS"+"/products/"+prodId, String.class);
+		String productName= template.getForObject(productUri+"/products/"+prodId, String.class);
 		WishlistDTO wDto= wishlistService.getSpecificProductFromWishlist(buyerId, prodId);
 		wDto.setProductName(productName);
 		return wDto;
